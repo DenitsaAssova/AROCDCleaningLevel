@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="Converse" targetId="87367bd410d44c68b58abd1c4aaafc65" version="11.1" toolVersion="9.8.5" bbox="-0.102487 0.000100 -0.121111 0.102487 0.144702 0.135289" previewImage="87367bd410d44c68b58abd1c4aaafc65_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Converses_assembly" assemblyId="8d8cea26ecdb4fe5a3166e18e04f4a58">
+<Part name="Converse" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00543761 0.0393773 0.436622" rotation="AD: 0.9999999999998487 -0.0003837644879597349 0.0014808133775111969 209.058" image="Converse_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Toothbrush" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Toothbrushs_assembly" assemblyId="9eabc500d4004fcdab0afa7d63dd2823">
+<Part name="Toothbrush" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0178194 0.0092299 0.16594" rotation="AD: 0.9924200908597317 0.18151083095203469 -0.9445878623036099 195.713" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

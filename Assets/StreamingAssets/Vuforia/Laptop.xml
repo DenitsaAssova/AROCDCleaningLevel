@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Laptop" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Laptops_assembly" assemblyId="2ff4c74d75f04119a79fd5b51d1c5c0a">
+<Part name="Laptop" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.978592 0.114621 1.80401" rotation="AD: 0.047515299930666874 -1.0260363324729949 4.374704579584166 180.284" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

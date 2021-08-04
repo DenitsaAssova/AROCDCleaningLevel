@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.8.5">
+<ModelTarget name="Glasses_Advanced" targetId="694064e8d39d483f952af7ea18a2a206" version="11.1" toolVersion="9.8.5" bbox="-0.077821 -0.024887 -0.086810 0.076879 0.025848 0.048687" previewImage="694064e8d39d483f952af7ea18a2a206_preview.jpg"/>
+<ModelTarget name="Iphone_Advanced" targetId="f0a4d446bbc542d6a96242d2b9f3125e" version="11.1" toolVersion="9.8.5" bbox="-0.059026 0.278260 0.028421 0.013020 0.421739 0.037597" previewImage="f0a4d446bbc542d6a96242d2b9f3125e_preview.jpg"/>
+<ModelTarget name="Book_Advanced" targetId="0254bc714c204cf09c074f076e5eb584" version="11.1" toolVersion="9.8.5" bbox="-0.010260 0.000000 -0.057925 0.010260 0.153807 0.057925" previewImage="0254bc714c204cf09c074f076e5eb584_preview.jpg"/>
+<ModelTarget name="Laptop_Advanced" targetId="53e234fe5c1f44959f2a75966c9b7431" version="11.1" toolVersion="9.8.5" bbox="0.814469 0.556084 -1.174931 1.181348 0.808488 -0.892344" previewImage="53e234fe5c1f44959f2a75966c9b7431_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Glasses_Advanceds_assembly" assemblyId="457071845da8448599480664ef8c87af">
+<Part name="Glasses_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0129136 0.00382644 0.251264" rotation="AD: 0.9998725657795988 0.04569162342928593 -0.3759697157251441 192.968" image="Glasses_Advanced_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Iphone_Advanceds_assembly" assemblyId="c3b2a980c9904b3ea8a43e52404cb65c">
+<Part name="Iphone_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0288491 0.313087 0.0790751" rotation="AD: 0.9999999999974456 -0.0030980657730085696 0.0007506917453648187 152.759" image="Iphone_Advanced_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Book_Advanceds_assembly" assemblyId="04d1affe2a704ff2a640f19616090c45">
+<Part name="Book_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.00139101 0.0406385 0.153646" rotation="AD: -0.9668547198013442 0.38916042446166843 0.9682589658986062 210.859" image="Book_Advanced_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Laptop_Advanceds_assembly" assemblyId="86a4633f0dde44a4a063762587612a89">
+<Part name="Laptop_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-1.01793 -0.0153699 1.82569" rotation="AD: -0.021711302809050637 -1.0445777844893491 3.45111597353751 179.791" image="Laptop_Advanced_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase mtDBid="04d743a9dbc34a5e880dab1857abed1d" name="OCD_Game_v2" toolVersion="13.0" version="13.0">
+    <RecognitionResult assemblyId="04d1affe2a704ff2a640f19616090c45" assemblyName="Book_Advanced" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="457071845da8448599480664ef8c87af" assemblyName="Glasses_Advanced" entryPoint="viewpoint_0000" />
+    <RecognitionResult assemblyId="86a4633f0dde44a4a063762587612a89" assemblyName="Laptop_Advanced" entryPoint="viewpoint_0001" />
+    <RecognitionResult assemblyId="c3b2a980c9904b3ea8a43e52404cb65c" assemblyName="Iphone_Advanced" entryPoint="viewpoint_0001" />
+</ModelTargetDatabase>
+
+</QCARInfo>

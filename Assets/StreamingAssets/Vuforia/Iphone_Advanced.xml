@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Iphone_Advanced" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Iphone_Advanceds_assembly" assemblyId="c3b2a980c9904b3ea8a43e52404cb65c">
+<Part name="Iphone_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0288491 0.313087 0.0790751" rotation="AD: 0.9999999999974456 -0.003098065773008555 0.0007506917453648154 152.759" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

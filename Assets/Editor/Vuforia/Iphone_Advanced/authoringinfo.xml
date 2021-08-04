@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="Iphone_Advanced" targetId="f0a4d446bbc542d6a96242d2b9f3125e" version="11.1" toolVersion="9.8.5" bbox="-0.059026 0.278260 0.028421 0.013020 0.421739 0.037597" previewImage="f0a4d446bbc542d6a96242d2b9f3125e_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Iphone_Advanceds_assembly" assemblyId="c3b2a980c9904b3ea8a43e52404cb65c">
+<Part name="Iphone_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0288491 0.313087 0.0790751" rotation="AD: 0.9999999999974456 -0.003098065773008555 0.0007506917453648154 152.759" image="Iphone_Advanced_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

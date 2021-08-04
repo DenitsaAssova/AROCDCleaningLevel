@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="IPhoneX" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="IPhoneXs_assembly" assemblyId="3840740d8f194b38b03499b4df9a22b1">
+<Part name="IPhoneX" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0283343 0.350582 0.229689" rotation="AD: 0.9999999999999258 -0.0030093799740059605 0.0001280743173438004 175.126" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

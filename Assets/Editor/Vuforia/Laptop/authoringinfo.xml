@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="Laptop" targetId="7b7501ef8788424b8dd680c38c31cb7c" version="11.1" toolVersion="9.8.5" bbox="0.814469 0.556084 -1.174931 1.181348 0.807156 -0.890908" previewImage="7b7501ef8788424b8dd680c38c31cb7c_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Laptops_assembly" assemblyId="2ff4c74d75f04119a79fd5b51d1c5c0a">
+<Part name="Laptop" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.978592 0.114621 1.80401" rotation="AD: 0.047515299930666874 -1.0260363324729949 4.374704579584166 180.284" image="Laptop_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

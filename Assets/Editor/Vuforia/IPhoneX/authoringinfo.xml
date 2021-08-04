@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="IPhoneX" targetId="56f951f26da74bc6b2d3dcf9c35557c5" version="11.1" toolVersion="9.8.5" bbox="-0.059026 0.278260 0.028421 0.013020 0.421739 0.037597" previewImage="56f951f26da74bc6b2d3dcf9c35557c5_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="IPhoneXs_assembly" assemblyId="3840740d8f194b38b03499b4df9a22b1">
+<Part name="IPhoneX" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0283343 0.350582 0.229689" rotation="AD: 0.9999999999999258 -0.0030093799740059605 0.0001280743173438004 175.126" image="IPhoneX_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

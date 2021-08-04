@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="Toothbrush" targetId="9c851e8075ae453e9d07006abd7f7f7e" version="11.1" toolVersion="9.8.5" bbox="-0.007354 -0.008024 -0.117954 0.007354 0.016046 0.073441" previewImage="9c851e8075ae453e9d07006abd7f7f7e_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Toothbrushs_assembly" assemblyId="9eabc500d4004fcdab0afa7d63dd2823">
+<Part name="Toothbrush" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0178194 0.0092299 0.16594" rotation="AD: 0.9924200908597317 0.18151083095203469 -0.9445878623036099 195.713" image="Toothbrush_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Glasses_Advanced" motionHint="static" trackingMode="default"/>
+<ModelTarget name="Iphone_Advanced" motionHint="static" trackingMode="default"/>
+<ModelTarget name="Book_Advanced" motionHint="static" trackingMode="default"/>
+<ModelTarget name="Laptop_Advanced" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Glasses_Advanceds_assembly" assemblyId="457071845da8448599480664ef8c87af">
+<Part name="Glasses_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0129136 0.00382644 0.251264" rotation="AD: 0.9998725657795988 0.04569162342928593 -0.3759697157251441 192.968" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Iphone_Advanceds_assembly" assemblyId="c3b2a980c9904b3ea8a43e52404cb65c">
+<Part name="Iphone_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0288491 0.313087 0.0790751" rotation="AD: 0.9999999999974456 -0.0030980657730085696 0.0007506917453648187 152.759" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Book_Advanceds_assembly" assemblyId="04d1affe2a704ff2a640f19616090c45">
+<Part name="Book_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.00139101 0.0406385 0.153646" rotation="AD: -0.9668547198013442 0.38916042446166843 0.9682589658986062 210.859" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="Laptop_Advanceds_assembly" assemblyId="86a4633f0dde44a4a063762587612a89">
+<Part name="Laptop_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-1.01793 -0.0153699 1.82569" rotation="AD: -0.021711302809050637 -1.0445777844893491 3.45111597353751 179.791" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="OCD_Game_v2" />
+</QCARConfig>
