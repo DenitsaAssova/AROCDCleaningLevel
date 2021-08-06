@@ -8,15 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StartMenu.unity
     guid: ce122d0ed7636804fa8a6bb00406f01c
-  - enabled: 0
-    path: Assets/Scenes/StartScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ClassificatorRules.unity
+    guid: 9f2ffc6154e8e9f42b1e5e2ea865e2a1
+  - enabled: 1
+    path: Assets/Scenes/ObjectClassification.unity
+    guid: a70f73f4f2b6c6d4eb7969956cc78e4a
   - enabled: 1
     path: Assets/Scenes/Book.unity
     guid: b8af102aec1d7d045b1262726500aaec
-  - enabled: 1
-    path: Assets/Scenes/Cup.unity
-    guid: 86f4cb2c4457d9f4bae62243fc72b69c
   - enabled: 1
     path: Assets/Scenes/Glasses.unity
     guid: 44548b1b3bab76842a9e96d67c06452f

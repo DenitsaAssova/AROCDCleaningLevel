@@ -391,11 +391,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c901a6f7e0f9fe48a30f4700ab43488, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  modelTargetIphone: {fileID: 0}
-  modelTragetCup: {fileID: 0}
-  modelTragetBook: {fileID: 0}
-  modelTargetLaptop: {fileID: 0}
-  modelTargetGlasses: {fileID: 0}
 --- !u!4 &898445866
 Transform:
   m_ObjectHideFlags: 0
@@ -544,8 +539,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -32.775024, y: 54}
-  m_SizeDelta: {x: 865.5, y: 406.4}
+  m_AnchoredPosition: {x: -20.1, y: 24.7}
+  m_SizeDelta: {x: 796.44, y: 362.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1829340216
 MonoBehaviour:
@@ -565,7 +560,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8a93055792d134a48a094c74891df1cc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0dbcb3bfae2bd664ab38717a67acd80e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -638,7 +633,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Continue
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -707,13 +702,13 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1946209426}
-    characterCount: 8
+    characterCount: 0
     spriteCount: 0
     spaceCount: 0
-    wordCount: 1
+    wordCount: 0
     linkCount: 0
-    lineCount: 1
-    pageCount: 1
+    lineCount: 0
+    pageCount: 0
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
@@ -751,7 +746,7 @@ GameObject:
   - component: {fileID: 2100027886}
   - component: {fileID: 2100027885}
   m_Layer: 5
-  m_Name: StartButton
+  m_Name: ForwardButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -766,16 +761,16 @@ RectTransform:
   m_GameObject: {fileID: 2100027883}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
   m_Children:
   - {fileID: 1946209425}
   m_Father: {fileID: 1649972405}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 41.83}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -70.06, y: 47.4}
+  m_SizeDelta: {x: 217, y: 217}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2100027885
 MonoBehaviour:
@@ -828,7 +823,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Glasses
+          m_StringArgument: ClassificatorRules
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2100027886
@@ -849,8 +844,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 7d9d90dcd6bccb948b0d04030195b55c, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
